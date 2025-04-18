@@ -1,4 +1,4 @@
-# main.py
+
 from pet import Pet
 
 def main():
